@@ -1,1 +1,1 @@
-# Cricket-Analytics-using-MySQL
+# Cricket Analytics using MySQL - T20WC 2024
