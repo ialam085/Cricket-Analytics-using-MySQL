@@ -34,3 +34,5 @@
 >- Certain teams consistently produced top individual performers earning multiple awards.
 >- These SQL-driven insights can support data analysts, coaches, and fans in evaluating strategy and consistency across teams.
 
+
+<img width="628" height="412" alt="image" src="https://github.com/user-attachments/assets/037990e6-4ebd-4d90-9c2f-13ed7bcd85a7" />
