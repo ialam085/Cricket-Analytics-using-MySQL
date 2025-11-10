@@ -1,6 +1,8 @@
 # ${\color{brown}Cricket\ Analytics\ using\ MySQL - T20WC\ 2024}$
 
-[SQL Queries](https://github.com/ialam085/Cricket-Analytics-using-MySQL/blob/main/t20wc.sql)
+# [SQL Queries](https://github.com/ialam085/Cricket-Analytics-using-MySQL/blob/main/t20wc.sql)
+
+# [Dataset](https://github.com/ialam085/Cricket-Analytics-using-MySQL/blob/main/T20WC.csv)
 
 ## OBJECTIVE
 > To analyze team and player performance during the T20 World Cup 2024 using structured SQL queries, providing insights on match outcomes, top performers, and overall tournament trends.
