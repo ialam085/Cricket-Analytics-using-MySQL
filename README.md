@@ -1,5 +1,4 @@
-# Cricket Analytics using MySQL - T20WC 2024
-
+# ${\color{brown}Cricket\ Analytics\ using\ MySQL - T20WC\ 2024}$
 
 ## OBJECTIVE
 > To analyze team and player performance during the T20 World Cup 2024 using structured SQL queries, providing insights on match outcomes, top performers, and overall tournament trends.
