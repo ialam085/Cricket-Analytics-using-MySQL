@@ -12,11 +12,11 @@
 >- MS Excel (CSV)
 
 ## STEPS INCLUDED
->- **Data Collection**: Imported official T20WC 2024 dataset into SQL table (T20WC).
->- **Data Exploration**: Checked match details, venues, and total records.
->- **Data Cleaning**: Ensured consistent formatting of team names, scores, and stages.
->- **Query Development**: Created SQL queries for aggregation, comparison, and pattern discovery.
->- **Data Interpretation**: Derived insights from match results and player statistics.
+- **Data Collection**: Imported official T20WC 2024 dataset into SQL table (T20WC).
+- **Data Exploration**: Checked match details, venues, and total records.
+- **Data Cleaning**: Ensured consistent formatting of team names, scores, and stages.
+- **Query Development**: Created SQL queries for aggregation, comparison, and pattern discovery.
+- **Data Interpretation**: Derived insights from match results and player statistics.
 
 ## ANALYSIS DONE
 >- Total matches and unique venues in T20WC 2024.
